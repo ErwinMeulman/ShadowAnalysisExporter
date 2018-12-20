@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Shadow Analysis 2 Exporter</Name>
+    <Assembly>.\ShadowAnalysisExporter.dll</Assembly>
+    <AddInId>6cee9d8c-ca69-4ca3-aaad-ce120cc77896</AddInId>
+    <FullClassName>ShadowAnalysisExporter.SAExporter</FullClassName>
+    <Text>Shadow Analysis 2 Exporter</Text>
+    <Description>Export current project to dwg, dwf(x), gbxml or fbx files and import a dwg or image file into Revit.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>DeltaCodes</VendorId>
+    <VendorDescription>DeltaCodes, www.deltacodes.pl</VendorDescription>
+  </AddIn>
+</RevitAddIns>

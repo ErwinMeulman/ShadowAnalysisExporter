@@ -1,0 +1,2 @@
+C:\Users\PowerUser\Downloads\C#\DeltaCodesSpzooShadowAnalysisExporter\ShadowAnalysisExporter\obj\x64\Debug\ShadowAnalysisExporter.csprojResolveAssemblyReference.cache
+C:\Users\PowerUser\Downloads\C#\DeltaCodesSpzooShadowAnalysisExporter\ShadowAnalysisExporter\obj\x64\Debug\ShadowAnalysisExporter.csproj.CoreCompileInputs.cache
